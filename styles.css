@@ -1,0 +1,27 @@
+body {
+    font-family: 'Futura', sans-serif;
+    background: url('background-texture.png') repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.logo {
+    width: 100px; /* Adjust based on your logo's size */
+    margin-bottom: 20px;
+}
+
+.contact a {
+    color: #fff;
+    text-decoration: underline;
+}
